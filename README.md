@@ -16,7 +16,6 @@
 - **⚙ Photoshop | OpenCv | Autocad | Lightroom |**
 - **⚙ Canva | Lightroom | VSCode | Eclipse |**
 - **🔰 | QA Manual Testing |**
---
 -->
 
 ---
@@ -46,5 +45,16 @@
   ![VSCode](https://img.shields.io/badge/VSCode-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
   ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
+  
+  
 
 ---
+
+<div id="just-line-break"></div>
+<br/>
+<div id="line-break-and-tab"></div>
+<div id="just-line-break2"></div>
+<br/>
+<div id="line-break-and-tab2"></div>
+
+
