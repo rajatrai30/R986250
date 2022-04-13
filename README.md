@@ -4,11 +4,11 @@
 ### [Junior Web Developer @ Web Spectrum]
 <!-- 
 <img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> -->
-<img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" />
+<!-- <img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" /> -->
+<img align="right" height='180px' alt="GIF" src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" />
 
 
 </br>
-
 - **🔢 Rajat at this in, Web Developer, BlockChain Developer & AI & ML enthusiastic **
 - **💻 I do my coding work in Kotlin, Java, Solidity & Python.
 - **Follow me on Tech Twitter [@Rajat__Rai](https://twitter.com/Rajat__Rai)**
@@ -48,15 +48,4 @@
   ![Pycharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)&nbsp;
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
   
-  
-
 ---
-
-<div id="just-line-break"></div>
-<br/>
-<div id="line-break-and-tab"></div>
-<div id="just-line-break2"></div>
-<br/>
-<div id="line-break-and-tab2"></div>
-
-
