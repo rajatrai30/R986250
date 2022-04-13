@@ -7,7 +7,7 @@
 
 </br>
 
-- **🔢 Rajat at this in, Web Developer, App Developer & AI & ML enthusiastic **
+- **🔢 Rajat at this in, Web Developer, BlockChain Developer & AI & ML enthusiastic **
 - **💻 I do my coding work in Kotlin, Java, Solidity & Python.
 - **Follow me on Tech Twitter [@Rajat__Rai](https://twitter.com/Rajat__Rai)**
 - **Always here to help if you're looking to contact, reach me [here](https://linktr.ee/rj_30)** 
