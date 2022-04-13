@@ -6,3 +6,7 @@ and AI and ML enthusiastic.
 You can checkout my different profiles on linktr.ee:
 https://linktr.ee/rj_30
 
+Checkout My Live Projects:
+http://pacificfoundation.org.in/
+http://pacificsecurityforce.com/
+
