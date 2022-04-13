@@ -5,14 +5,20 @@
 <!-- 
 <img align="right" height='180px' alt="GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> -->
 <!-- <img align="right" height='180px' alt="GIF" src="https://media1.tenor.com/images/104f3a788e614cb7ecf468d09eff1d1a/tenor.gif" /> -->
+
+
 <img align="right" height='180px' alt="GIF" src="https://c.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" />
 
 
 </br>
-- **🔢 Rajat at this in, Web Developer, BlockChain Developer & AI & ML enthusiastic**
-- **💻 I do my coding work in Kotlin, Java, Solidity & Python.**
-- **Follow me on Tech Twitter [@Rajat__Rai](https://twitter.com/Rajat__Rai)**
-- **Always here to help if you're looking to contact, reach me [here](https://linktr.ee/rj_30)** 
+
+- **🔢 Rishabh here, Android Developer & Open Source Enthusiast**
+- **🔢 Rajat at this in, Web Developer, BlockChain Developer & AI & ML enthusiastic** <br>
+- **💻 I do my coding work in Kotlin, Java, Solidity & Python** <br>
+- **Follow me on Tech Twitter [@Rajat__Rai](https://twitter.com/Rajat__Rai)** <br>
+- **Always here to help if you're looking to contact, reach me [here](https://linktr.ee/rj_30)** <br>
+
+
 <!--
 - **⚙ C | C++ | Java | Python | Solidity |**
 - **⚙ Photoshop | OpenCv | Autocad | Lightroom |**
@@ -49,3 +55,12 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
   
 ---
+
+
+
+<div id="just-line-break"></div>
+<br/>
+<div id="line-break-and-tab"></div>
+<div id="just-line-break2"></div>
+<br/>
+<div id="line-break-and-tab2"></div>
