@@ -12,9 +12,8 @@
 
 </br>
 
-- **🔢 Rishabh here, Android Developer & Open Source Enthusiast**
-- **🔢 Rajat at this in, Web Developer, BlockChain Developer & AI & ML enthusiastic** <br>
-- **💻 I do my coding work in Kotlin, Java, Solidity & Python** <br>
+- **🔢 Rajat at this in, Web Developer, BlockChain Developer & AI & ML enthusiastic.** <br>
+- **💻 I do my coding work in Kotlin, Java, Solidity & Python.** <br>
 - **Follow me on Tech Twitter [@Rajat__Rai](https://twitter.com/Rajat__Rai)** <br>
 - **Always here to help if you're looking to contact, reach me [here](https://linktr.ee/rj_30)** <br>
 
@@ -55,12 +54,3 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)&nbsp;
   
 ---
-
-
-
-<div id="just-line-break"></div>
-<br/>
-<div id="line-break-and-tab"></div>
-<div id="just-line-break2"></div>
-<br/>
-<div id="line-break-and-tab2"></div>
